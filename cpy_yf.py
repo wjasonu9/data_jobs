@@ -1,3 +1,4 @@
+#acknowledgment: adapted from https://github.com/Ishaanred/yahoo-finance-dataset
 import csv
 from IPython.display import clear_output
 import os

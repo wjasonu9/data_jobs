@@ -1,7 +1,6 @@
-/*
-pg_dump --format=custom --no-owner --table=invoices_fact sql_luke > ivf.dump
+/* pg_dump --format=custom --no-owner --table=invoices_fact sql_luke > ivf.dump
 pg_restore --no-owner --dbname='(paste in NEON_LUKE)' ivf.dump
-*/
+rm ivf.dump */
 CREATE TABLE public.invoices_fact (
     activity_id INT PRIMARY KEY,
     activity_date TIMESTAMP,

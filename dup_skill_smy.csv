@@ -1,0 +1,45 @@
+skill_id,skills,type,Comment 
+136,angular,webframeworks,
+146,angular.js,webframeworks,AngularJS Legacy keep 
+149,asp.net,webframeworks,ASP.NET Legacy keep 
+150,asp.net core,webframeworks,ASP.NET Core
+164,asp.netcore,webframeworks,Duplicate of 150
+166,asp.netcore,webframeworks,Duplicate of 150
+65,couchbase,databases,Couchbase Server
+69,couchdb,databases,CouchDB
+66,firebase,databases,Duplicate of 82
+68,firestore,databases,Distinct from Firebase
+82,firebase,cloud,
+8,go,programming,
+27,golang,programming,Duplicate of 8
+121,hugging face,libraries,
+130,huggingface,libraries,Duplicate of 121
+18,mongodb,programming,duplicate of 62 
+24,mongo,programming,Duplicate of 18 or 62
+62,mongodb,databases,MongoDB
+145,node.js,webframeworks,(runtime)
+154,node,webframeworks,Duplicate of 145
+2,nosql,programming,NoSQL (databases)
+28,no-sql,programming,Duplicate of 2
+183,power bi,analyst_tools,Power BI
+203,powerbi,analyst_tools,Duplicate of 183
+205,powerbi,analyst_tools,duplicate of 183
+92,spark,libraries,
+95,pyspark,libraries,PySpark
+110,react,libraries,
+147,react.js,webframeworks,duplicate of 110
+30,ruby,programming,
+144,ruby,webframeworks,Ruby on Rails
+153,ruby on rails,webframeworks,Duplicate of 144
+165,rubyon rails,webframeworks,Duplicate of 144
+7,sas,programming,SAS
+186,sas,analyst_tools,duplicate of 7
+61,sql server,databases,SQL Server 
+71,sqlserver,databases,Duplicate of 61
+72,sqlserver,databases,Duplicate of 61
+21,visual basic,programming,
+22,vba,programming,Visual Basic for Applications
+42,vb.net,programming,
+54,visualbasic,programming,duplicate of 21
+138,vue,webframeworks,Vue.js
+140,vue.js,webframeworks,Duplicate of 138
